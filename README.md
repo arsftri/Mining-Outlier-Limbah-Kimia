@@ -1,4 +1,4 @@
-# Mining Outlier Limbah Kimia by TRI
+# Mining Outlier Chemicals Waste by TRI
 Judul: Analisis Outlier Limbah Kimia Berbasis Jenis Bahan Berbahaya dan Metode Pengolahan terhadap Sepuluh Fasilitas Industri terbanyak di Amerika Serikat
 
 ## Latar Belakang
